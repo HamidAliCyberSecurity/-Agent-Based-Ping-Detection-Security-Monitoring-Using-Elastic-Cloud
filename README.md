@@ -22,8 +22,7 @@ Agent-Based-Ping-Detection-Security-Monitoring-Using-Elastic-Cloud/
 ├── README.md
 └── LICENSE
 
-markdown
-Copy code
+
 - All documentation is provided in the included PDF file.  
 
 ## Skills Demonstrated
